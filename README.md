@@ -12,9 +12,8 @@ sula's powerful toolkit includes seamless browser automation to navigate the web
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
 [![Discord Follow](https://dcbadge.limes.pink/api/server/Py6pCBUUPw?style=flat)](https://discord.gg/Py6pCBUUPw)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kortixai)](https://x.com/kortixai)
-[![GitHub Repo stars](https://img.shields.io/github/stars/kortix-ai/sula)](https://github.com/kortix-ai/sula)
-[![Issues](https://img.shields.io/github/issues/kortix-ai/sula
+[![Twitter Follow](https://img.shields.io/twitter/follow/kortixai)](https://x.com/SulaAIAgnet)
+
 )](https://github.com/kortix-ai/sula/labels/bug)
 </div>
 
