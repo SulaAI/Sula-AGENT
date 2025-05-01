@@ -12,9 +12,9 @@ sula's powerful toolkit includes seamless browser automation to navigate the web
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
 [![Discord Follow](https://dcbadge.limes.pink/api/server/Py6pCBUUPw?style=flat)](https://discord.gg/Py6pCBUUPw)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kortixai)](https://x.com/SulaAIAgnet)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SulaAIAgnet)](https://x.com/SulaAIAgnet)
 
-)](https://github.com/kortix-ai/sula/labels/bug)
+
 </div>
 
 
@@ -114,7 +114,7 @@ You'll need the following components:
    - Generate an API key from your account settings
    - Go to [Images](https://app.daytona.io/dashboard/images)
    - Click "Add Image"
-   - Enter `adamcohenhillel/kortix-sula:0.0.20` as the image name
+   - Enter `adamcohenhillel/ix-sula:0.0.20` as the image name
    - Set `/usr/bin/supervisord -n -c /etc/supervisor/conf.d/supervisord.conf` as the Entrypoint
 
 4. **LLM API Keys**:
@@ -291,5 +291,5 @@ The Docker Compose setup includes a Redis service that will be used by the backe
 
 ## License
 
-Kortix sula is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+ix sula is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
 
