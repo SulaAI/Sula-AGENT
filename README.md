@@ -1,6 +1,6 @@
 <div align="center">
 
-# sula - Open Source Generalist AI Agent
+# SULA - Open Source Generalist AI Agent
 
 (that acts on your behalf)
 
