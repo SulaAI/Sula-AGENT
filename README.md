@@ -4,7 +4,6 @@
 
 (that acts on your behalf)
 
-![sula Screenshot](frontend/public/banner.png)
 
 sula is a fully open source AI assistant that helps you accomplish real-world tasks with ease. Through natural conversation, sula becomes your digital companion for research, data analysis, and everyday challenges—combining powerful capabilities with an intuitive interface that understands what you need and delivers results.
 
@@ -34,7 +33,6 @@ sula's powerful toolkit includes seamless browser automation to navigate the web
 
 ## Project Architecture
 
-![Architecture Diagram](docs/images/diagram.png)
 
 sula consists of four main components:
 
