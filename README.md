@@ -10,7 +10,6 @@ sula is a fully open source AI assistant that helps you accomplish real-world ta
 sula's powerful toolkit includes seamless browser automation to navigate the web and extract data, file management for document creation and editing, web crawling and extended search capabilities, command-line execution for system tasks, website deployment, and integration with various APIs and services. These capabilities work together harmoniously, allowing sula to solve your complex problems and automate workflows through simple conversations!
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
-[![Discord Follow](https://dcbadge.limes.pink/api/server/Py6pCBUUPw?style=flat)](https://discord.gg/Py6pCBUUPw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SulaAIAgnet)](https://x.com/SulaAIAgnet)
 
 
